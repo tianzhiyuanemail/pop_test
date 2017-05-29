@@ -66,8 +66,7 @@
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-velocity</artifactId>
-			<version>1.1.8.RELEASE</version>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
 		</dependency>
 
 
